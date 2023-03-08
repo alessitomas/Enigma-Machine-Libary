@@ -9,7 +9,7 @@ classifiers = [
 ]
  
 setup(
-  name='enigma-machine',
+  name='enigmamachine',
   version='0.0.1',
   description='A basic cryptography libary, simulating the Enigma Machine',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
